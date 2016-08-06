@@ -1,0 +1,29 @@
+_repo: The-Child-under-Eight_10042
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Murray, E. R. (Elsie Riach)
+    alias: Murray, Elsie Riach
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '3276'
+    url: http://www.gutenberg.org/2009/agents/3276
+  - agent_name: Smith, Henrietta Brown
+    birthdate: 1868
+    gutenberg_agent_id: '4602'
+    url: http://www.gutenberg.org/2009/agents/4602
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education'
+- !lcc 'LB'
+- GITenberg
+title: The Child under Eight
+url: http://www.gutenberg.org/ebooks/10042
